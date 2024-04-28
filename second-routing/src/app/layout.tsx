@@ -10,7 +10,8 @@ const links = [
   { href: "/register", name: "Registeer" },
   { href: "/navigatingprogrammatically", name: "Prog-nav" },
   { href: "/profile", name: "Profile" },
-  {href:"/dashboard", name:"Dashboard"}
+  {href:"/dashboard", name:"Dashboard"},
+  {href:"/interceptingroutes", name:"InterceptingRoutes"}
 ];
 export default function RootLayout({
   children,
